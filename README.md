@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?text=webDesign&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=webDesign&theme=slice&type=slice)
+
+
 <h1 align="center">Hi 👋, I'm ParkChanHo</h1>
 <h3 align="center">거북이같이 느리지만 끝까지 완수해내는 퍼블리셔입니다.</h3>
 
